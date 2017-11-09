@@ -1,0 +1,11 @@
+.container {
+  width: 30px;
+}
+
+.test {
+  background-image: url('/assets/res/signup_left_back.png');
+  width: 35%;
+  height: 100%;
+  background-size: 100% 100%;
+  position: absolute;
+}

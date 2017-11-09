@@ -1,0 +1,14 @@
+.container {
+  width: 30px;
+}
+
+.test {
+  background-image: url('/assets/res/signup_left_back.png');
+  height: 100%;
+  background-size: 100% 100%;
+  position: absolute;
+}
+
+div.landing.topbar {
+	padding-top: 20px;
+}
